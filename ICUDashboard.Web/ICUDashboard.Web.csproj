@@ -3540,6 +3540,9 @@
     <Content Include="Scripts\i18n\angular-locale_zu-za.js" />
     <Content Include="Scripts\i18n\angular-locale_zu.js" />
     <None Include="log4net.Production.config" />
+    <None Include="Properties\PublishProfiles\ntuhicu - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\ntuhicu - ReadOnly - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\ntuhicu - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
     <Content Include="Scripts\jquery-3.3.1.min.js" />
